@@ -2,7 +2,7 @@
   "name": "args-router",
   "version": "0.0.1",
   "description": "A lightweight module that can handle the node.js startup parameters for you.",
-  "main": "./out/index.js",
+  "main": "./bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
